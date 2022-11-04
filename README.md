@@ -2,7 +2,7 @@
 <tr><br>
 <h2> My Stats: </h2>
 
-| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=pedromogly&show_icons=true&theme=tokyonight" alt="Pedromogly's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromogly&layout=compact&hide_border=true" /></a> |
+| <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/?username=pedromogly&show_icons=true&theme=tokyonight" alt="Pedromogly's github stats" /></a> | <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pedromogly&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <br><tr>
