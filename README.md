@@ -2,7 +2,7 @@
 <tr><br>
 <h2> My Stats: </h2>
 
-| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromogly&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/pedromogly/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromogly&repo=convoychat&layout=compact&theme=tokyonight)](https://github.com/pedromogly/github-readme-stats) |
+| [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/?username=pedromogly&repo=github-readme-stats&show_icons=true&theme=tokyonight)](https://github.com/pedromogly/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromogly&repo=convoychat&layout=compact&theme=tokyonight)](https://github.com/pedromogly/github-readme-stats) |
 | ------------- | ------------- |
   
 <br><tr>
