@@ -19,25 +19,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/react/react-original.svg" width="75px">
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/flutter/flutter-original.svg" width="75px"> 
 </p><tr>
-<!--
-<style>
-.anim-icon {
-    animation: openAnimation 2s;
-    animation-delay: 1s;
-    animation-fill-mode: backwards;
-  }
+<h3>- Let's get on with it</h3>
   
-@keyframes openAnimation {
-    from {
-        transform: translateY(-100%);
-    }
-    to {
-        transform: translateY(0%);
-    }
-}
-</style>
--->
-<tr>
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedromogly/)](https://www.linkedin.com/in/pedromogly/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedromogly@gmail.com)](mailto:pedromogly@gmail.com)
 <!---
