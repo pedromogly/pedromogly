@@ -3,7 +3,7 @@
 <h2> My Stats: </h2>
 
 <p align="center">
-<img src="https://github-readme-stats-ji3fov6m3-tio-mooglys-projects.vercel.app/api?username=pedromogly&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+<img src="https://pedromogly.vercel.app/api?username=pedromogly&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromogly)](https://github.com/pedromogly/github-readme-stats)
