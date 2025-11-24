@@ -2,6 +2,10 @@
 <tr><br>
 <h2> My Stats: </h2>
 
+<p align="center">
+<img src="https://github-readme-stats-ji3fov6m3-tio-mooglys-projects.vercel.app/api?username=pedromogly&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff" />
+</p>
+
 | [![Pedromogly's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedromogly&show_icons=true&theme=github_dark&hide_border=true&title_color=00ff99&icon_color=00ff99&text_color=ffffff)](https://github.com/pedromogly/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedromogly&layout=compact&hide_border=true&title_color=00ff99&text_color=ffffff&bg_color=0d1117)](https://github.com/pedromogly/github-readme-stats) |
 | ------------- | ------------- |
   
